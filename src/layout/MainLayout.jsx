@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Sidebar from "../components/sidebar";
+import Sidebar from "../components/Sidebar";
 import App from "../App";
 import Housing from "../components/Housing";
 import HomePage from "../components/HomePage";
